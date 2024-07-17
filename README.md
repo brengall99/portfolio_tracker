@@ -10,9 +10,9 @@ The Stock Portfolio Tracker is a web application built using Dash, a Python fram
 - **Adjustable Time Frame:** Users can select the number of days to view the portfolio's value using a slider.
 
 ## Required Libraries
-'''python
+```python
 pip install dash dash-bootstrap-components yfinance pandas plotly
-'''
+```
 
 # Usage
 - Enter the ticker (e.g. AAPL) in the "Enter stock ticker" box.
